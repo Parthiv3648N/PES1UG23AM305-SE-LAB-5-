@@ -1,6 +1,6 @@
 # SE_LAB_5 — Static Code Analysis for inventory_system
 
-Author: Vivan Jeevan Naik (SRN: pes1ug23am354), Section F  
+Author: S. PARTHIV RAM (SRN: pes1ug23am305), Section F  
 Date: 2025-10-30
 
 ## Purpose
